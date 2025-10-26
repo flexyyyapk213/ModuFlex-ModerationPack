@@ -11,4 +11,6 @@ __description__ = Description(
 
 __ModuFlex_version__ = ">=0.0.8"
 
+__version__ = "0.0.1"
+
 import plugins.ModerationPack.main
